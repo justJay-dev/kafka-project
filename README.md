@@ -7,10 +7,6 @@ practical testing with a small kafka cluster &amp;&amp; zookeeper
     * docker-compose
     * node
 
-edit ```stack.yml``` to reflect your current machines hostname
-
-
-
 ### using
 you'll need to edit stack.yml, consumer.js, producer.js, and topic.js to replace ```macbook-02.local``` with your hostname (find this by running ```HostName``` in your terminal)
 
