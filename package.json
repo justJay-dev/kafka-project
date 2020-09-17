@@ -1,0 +1,23 @@
+{
+  "name": "kafka-project",
+  "version": "1.0.0",
+  "description": "practical testing with a small kafka cluster &amp;&amp; zookeeper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justJay-dev/kafka-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justJay-dev/kafka-project/issues"
+  },
+  "homepage": "https://github.com/justJay-dev/kafka-project#readme",
+  "dependencies": {
+    "kafkajs": "^1.13.0"
+  }
+}
